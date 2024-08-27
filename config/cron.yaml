@@ -5,3 +5,9 @@ jobs:
     enable: false
     agentId: 20240827093613-iG5GLf
     inputs: {}
+  - id: 0PmqxdhpFdXC84dKWJ3II
+    name: new
+    cronExpression: 0,5 3 1 * 0
+    enable: false
+    agentId: 20240827093613-iG5GLf
+    inputs: {}
