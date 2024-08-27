@@ -46,7 +46,7 @@ prompts:
     data:
       id: 9Sw8kJD4SyzFlWsj377Jq
       role: user
-      content: |
+      content: |-
         {{ question }}
         {{ ref }}
         {{ ref1 }}
