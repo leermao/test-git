@@ -1,20 +1,20 @@
 type: prompt
 parameters:
-  - id: qpwXzmW7yQ-3cEL06O2XA
+  - id: vcHlrB7W0gW_ZdFFU4olL
     type: string
     key: question
 prompts:
   - type: message
     data:
-      id: gIxr46rIv5yuTh7czR1Ky
+      id: BIr1kVz3tp8MqIagPir48
       role: user
       content: "{{ question }}"
 outputVariables:
-  - id: AChiduD0bd1AlDnLVhtZw
+  - id: 1nUmU18i4k6s-BULptg-9
     name: $text
-id: 20240827105930-Sbzhxh
-createdAt: 2024-08-27T02:59:30.914Z
-updatedAt: 2024-08-27T02:59:30.914Z
+id: 20240827115623-mDaEFU
+createdAt: 2024-08-27T03:56:23.179Z
+updatedAt: 2024-08-27T03:56:23.179Z
 createdBy: z1cS5a9pffsJ3iBRR8cZWmWTQWEDhYfdmEn
 updatedBy: z1cS5a9pffsJ3iBRR8cZWmWTQWEDhYfdmEn
-name: Unnamed Agent 6
+name: Unnamed Agent 10

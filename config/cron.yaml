@@ -17,32 +17,15 @@ jobs:
     enable: false
     agentId: 20240827105929-tppl1e
     inputs: {}
-  - id: H3SEEs8qnqPDvv6zaqXyX
+  - id: zZJTGfqrHBKtY6T2gwkVL
+    name: "11"
+    cronExpression: 0 * * * *
+    enable: false
+    agentId: 20240827115623-mDaEFU
+    inputs: {}
+  - id: j5vihLQ16l2kfWURC2rms
     name: ""
-    cronExpression: 0 0 * * *
-    enable: false
-    agentId: 20240827105930-Sbzhxh
-    inputs: {}
-  - id: I1xcmwvwAHJBHTv3A9iWp
-    name: ""
     cronExpression: 0 * * * *
     enable: false
-    inputs: {}
-  - id: RqhDJoSJiKmQrwWJm602q
-    name: "1"
-    cronExpression: 0 * * * *
-    enable: false
-    agentId: 20240827113233-nrEZEC
-    inputs: {}
-  - id: bveGb4yW94fHlKJq4VUQl
-    name: "2"
-    cronExpression: 0 * * * *
-    enable: false
-    agentId: 20240827113233-nrEZEC
-    inputs: {}
-  - id: XoQyTbORhXbRajQgNCeXL
-    name: "3"
-    cronExpression: 0 * * * *
-    enable: false
-    agentId: 20240827113233-nrEZEC
+    agentId: 20240827115623-mDaEFU
     inputs: {}
