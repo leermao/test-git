@@ -5,18 +5,6 @@ jobs:
     enable: false
     agentId: 20240827093613-iG5GLf
     inputs: {}
-  - id: 0PmqxdhpFdXC84dKWJ3II
-    name: new
-    cronExpression: 0,5 3 1 * 0
-    enable: false
-    agentId: 20240827093613-iG5GLf
-    inputs: {}
-  - id: YgmpV8adn6Fj4y6IchjgO
-    name: ""
-    cronExpression: 0 * * * *
-    enable: false
-    agentId: 20240827105929-tppl1e
-    inputs: {}
   - id: zZJTGfqrHBKtY6T2gwkVL
     name: "11"
     cronExpression: 0 * * * *
@@ -28,16 +16,4 @@ jobs:
     cronExpression: 0 * * * *
     enable: false
     agentId: 20240827115623-mDaEFU
-    inputs: {}
-  - id: L15huiUFnuw6WJCRGElBJ
-    name: ""
-    cronExpression: 0 * * 1 *
-    enable: false
-    agentId: 20240827141834-ZqLPV1
-    inputs: {}
-  - id: Cq1WVr1PXC8jCKrGtP3pA
-    name: ""
-    cronExpression: 0 * * * *
-    enable: false
-    agentId: 20240827141834-ZqLPV1
     inputs: {}
