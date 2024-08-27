@@ -1,1 +1,7 @@
-{}
+jobs:
+  - id: HLz8XDErhHx2Tz94L5but
+    name: TEST
+    cronExpression: 0 * * * *
+    enable: false
+    agentId: 20240827093613-iG5GLf
+    inputs: {}

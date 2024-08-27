@@ -1,0 +1,20 @@
+type: prompt
+parameters:
+  - id: zCe37TxvIJP1qz8ZZFdii
+    type: string
+    key: question
+prompts:
+  - type: message
+    data:
+      id: naj2OpPxnzzJ0M_gbLNZ3
+      role: user
+      content: "{{ question }}"
+outputVariables:
+  - id: h4yG2T1r7fn7FiKrIdNPh
+    name: $text
+id: 20240827093616-iTvMbZ
+createdAt: 2024-08-27T01:36:16.905Z
+updatedAt: 2024-08-27T01:36:16.905Z
+createdBy: z1cS5a9pffsJ3iBRR8cZWmWTQWEDhYfdmEn
+updatedBy: z1cS5a9pffsJ3iBRR8cZWmWTQWEDhYfdmEn
+name: Unnamed Agent 4

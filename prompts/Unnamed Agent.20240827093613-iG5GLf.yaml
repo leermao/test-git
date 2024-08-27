@@ -1,0 +1,64 @@
+type: prompt
+parameters:
+  - id: t9nlfzX9obHNtkvyziKXo
+    type: string
+    key: question
+  - id: FOKVCRHzgj45XuxFr34ZK
+    key: ref
+    type: source
+    source:
+      variableFrom: tool
+      agent:
+        projectId: "483449629275324416"
+        id: 20240827093614-ysDh7Z
+        from: assistant
+  - id: bhDrDWenRg7gpfTI77DWy
+    key: ref1
+    type: source
+    source:
+      variableFrom: tool
+      agent:
+        projectId: "483449629275324416"
+        id: 20240827093615-j9gFlp
+        from: assistant
+  - id: SDam49DSxvVwDIFdYGntv
+    key: ref2
+    type: source
+    source:
+      variableFrom: tool
+      agent:
+        projectId: "483449629275324416"
+        id: 20240827093616-VaVhDw
+        from: assistant
+  - id: jIX6gNNZB1pUMY3D0LZFq
+    key: ref3
+    type: source
+    source:
+      variableFrom: tool
+      agent:
+        projectId: "483449629275324416"
+        id: 20240827093616-iTvMbZ
+        from: assistant
+  - id: ArrRL84DemF4qnukVc2PB
+    key: ref4
+prompts:
+  - type: message
+    data:
+      id: 9Sw8kJD4SyzFlWsj377Jq
+      role: user
+      content: |
+        {{ question }}
+        {{ ref }}
+        {{ ref1 }}
+        {{ ref2 }}
+        {{ ref3 }}
+        {{ ref4 }}
+outputVariables:
+  - id: euVhwpn-QwbF-RpiCUHQb
+    name: $text
+id: 20240827093613-iG5GLf
+createdAt: 2024-08-27T01:36:13.597Z
+updatedAt: 2024-08-27T01:36:13.597Z
+createdBy: z1cS5a9pffsJ3iBRR8cZWmWTQWEDhYfdmEn
+updatedBy: z1cS5a9pffsJ3iBRR8cZWmWTQWEDhYfdmEn
+name: Unnamed Agent
