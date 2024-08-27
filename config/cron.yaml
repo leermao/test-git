@@ -29,3 +29,15 @@ jobs:
     enable: false
     agentId: 20240827115623-mDaEFU
     inputs: {}
+  - id: L15huiUFnuw6WJCRGElBJ
+    name: ""
+    cronExpression: 0 * * 1 *
+    enable: false
+    agentId: 20240827141834-ZqLPV1
+    inputs: {}
+  - id: Cq1WVr1PXC8jCKrGtP3pA
+    name: ""
+    cronExpression: 0 * * * *
+    enable: false
+    agentId: 20240827141834-ZqLPV1
+    inputs: {}
