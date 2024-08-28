@@ -1,4 +1,5 @@
-type: prompt
+type: function
+code: "const F = "
 parameters:
   - id: t9nlfzX9obHNtkvyziKXo
     type: string
@@ -42,20 +43,21 @@ parameters:
   - id: ArrRL84DemF4qnukVc2PB
     key: ref4
 prompts:
-  - type: message
+  9Sw8kJD4SyzFlWsj377Jq:
+    index: 0
     data:
-      id: 9Sw8kJD4SyzFlWsj377Jq
-      role: user
-      content: |-
-        {{ question }}
-        {{ ref }}
-        {{ ref1 }}
-        {{ ref2 }}
-        {{ ref3 }}
-        {{ ref4 }}
-outputVariables:
-  - id: euVhwpn-QwbF-RpiCUHQb
-    name: $text
+      type: message
+      data:
+        id: 9Sw8kJD4SyzFlWsj377Jq
+        role: user
+        content: |-
+          {{ question }}
+          {{ ref }}
+          {{ ref1 }}
+          {{ ref2 }}
+          {{ ref3 }}
+          {{ ref4 }}
+outputVariables: []
 id: 20240827093613-iG5GLf
 createdAt: 2024-08-27T01:36:13.597Z
 updatedAt: 2024-08-27T01:36:13.597Z
